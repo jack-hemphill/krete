@@ -3,8 +3,14 @@ body {
     background-color: #f4f4f4;
     text-align: center;
     padding: 50px;
+    font-size: 20px; /* This increases the default font size */
 }
 
 h1 {
     color: #333;
+    font-size: 40px; /* This makes the <h1> (main heading) text bigger */
+}
+
+p {
+    font-size: 44px; /* This increases the size of paragraph text */
 }
